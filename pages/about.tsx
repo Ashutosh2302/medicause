@@ -10,7 +10,7 @@ export default function About() {
             <section>
               <h2 className="text-2xl font-semibold text-[#0A2B5D] mb-3">Our Mission</h2>
               <p className="text-gray-700 text-justify">
-                At Medicause, our mission is to make quality healthcare accessible to everyone. We believe that healthcare should be convenient, affordable, and available at your fingertips. Through our innovative platform, we're bridging the gap between healthcare providers and patients.
+                At Medicause, our mission is to make quality healthcare accessible to everyone. We believe that healthcare should be convenient, affordable, and available at your fingertips. Through our innovative platform, we&apos;re bridging the gap between healthcare providers and patients.
               </p>
             </section>
 

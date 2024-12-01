@@ -10,7 +10,7 @@ export default function Contact() {
             <section>
               <h2 className="text-2xl font-semibold text-[#0A2B5D] mb-3">Get in Touch</h2>
               <p className="text-gray-700 text-justify mb-6">
-                We're here to help! Whether you have questions about our services, need technical support, or want to explore business opportunities, our team is ready to assist you.
+                We&apos;re here to help! Whether you have questions about our services, need technical support, or want to explore business opportunities, our team is ready to assist you.
               </p>
               
               <form className="space-y-4">

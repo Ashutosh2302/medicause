@@ -14,7 +14,7 @@ export default function Home() {
           </p>
           <p className="text-lg text-gray-700 mb-4 text-justify">
             From booking lab tests and ordering medicines to scheduling home healthcare visits,
-            we've simplified the healthcare journey for you. Our all-in-one app ensures that quality
+            we&apos;ve simplified the healthcare journey for you. Our all-in-one app ensures that quality
             healthcare is accessible, affordable, and available whenever you need it. Experience
             the future of healthcare with Medicause.
           </p>

@@ -10,7 +10,7 @@ export default function TermsOfService() {
             <section>
               <h2 className="text-2xl font-semibold text-[#0A2B5D] mb-3">1. Service Agreement</h2>
               <p className="text-gray-700 text-justify">
-                By using Medicause's services, you agree to these terms and conditions. Our services include online consultations, health checkups, home care services, lab tests, and medicine delivery. We reserve the right to modify or discontinue any service without prior notice.
+                By using Medicause&apos;s services, you agree to these terms and conditions. Our services include online consultations, health checkups, home care services, lab tests, and medicine delivery. We reserve the right to modify or discontinue any service without prior notice.
               </p>
             </section>
 
