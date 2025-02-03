@@ -38,7 +38,7 @@ export default function CancellationPolicy() {
 
                 <li>
                   <p>
-                    In case of complaints regarding products that come with a warranty from manufacturers, please refer the issue to them. In case of any Refunds approved by the MEDICAUSE it'll take 3-5 days for the refund to be processed to the end customer.
+                    In case of complaints regarding products that come with a warranty from manufacturers, please refer the issue to them. In case of any Refunds approved by the MEDICAUSE it&apos;ll take 3-5 days for the refund to be processed to the end customer.
                   </p>
                 </li>
               </ul>
