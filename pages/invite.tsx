@@ -45,8 +45,8 @@ export default function InvitePage() {
               Opening Medicause App...
             </h2>
             <p className="text-gray-600">
-              If the app doesn't open, please download it from the App Store or
-              Play Store.
+              If the app doesn&apos;t open, please download it from the App
+              Store or Play Store.
             </p>
           </div>
         ) : (
@@ -59,7 +59,7 @@ export default function InvitePage() {
                 Join Medicause Membership
               </h1>
               <p className="text-gray-600 mb-4">
-                You've been invited to join a membership group
+                You&apos;ve been invited to join a membership group
               </p>
             </div>
 
@@ -80,7 +80,7 @@ export default function InvitePage() {
                 Open in App
               </button>
               <p className="text-sm text-gray-500">
-                Don't have the app?{" "}
+                Don&apos;t have the app?{" "}
                 <a
                   href="https://apps.apple.com/app/medicause"
                   className="text-blue-600 hover:underline"
